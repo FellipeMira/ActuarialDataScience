@@ -1,3 +1,6 @@
+
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4389797
+
 # Actuarial Data Science
 This is the code repository for the Actuarial Data Science Tutorials published at https://actuarialdatascience.org. There are the following tutorials with available data and code:
 
